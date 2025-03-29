@@ -2,6 +2,8 @@ ipykernel
 python-dotenv
 langchain
 langchain_community
+pinecone
 pinecone-client
 pinecone-text
 pinecone-notebooks
+langchain_huggingface
